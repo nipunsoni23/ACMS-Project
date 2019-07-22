@@ -1,0 +1,5 @@
+com\tests4geeks\tutorials\repository\FeedbackSearchRepository.class
+com\tests4geeks\tutorials\controllers\FeedbackController.class
+com\tests4geeks\tutorials\model\Feedback.class
+com\tests4geeks\tutorials\MongoTutorialApplication.class
+com\tests4geeks\tutorials\repository\FeedbackMongoRepository.class
